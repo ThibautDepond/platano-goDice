@@ -6,7 +6,7 @@ import (
 	"fyne.io/fyne/v2/app"
 	"fyne.io/fyne/v2/container"
 	"fyne.io/fyne/v2/widget"
-	"thibautdepond.github.io/goDice/utils"
+	"thibautdepond.github.io/platano-goDice/utils"
 )
 
 func main() {

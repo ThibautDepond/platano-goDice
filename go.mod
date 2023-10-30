@@ -1,4 +1,4 @@
-module thibautdepond.github.io/goDice
+module thibautdepond.github.io/platano-goDice
 
 go 1.21.0
 
